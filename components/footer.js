@@ -1,1 +1,1 @@
-console.log('footer logo1')
+console.log('footer logo2')
